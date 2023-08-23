@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "simple-python-server"
+version = "0.1.0"
+description = ""
+authors = ["Nicholas Young <nicholas.young@abbott.com>"]
+readme = "README.md"
+packages = [{include = "simple_python_server"}]
+
+[tool.poetry.dependencies]
+
+flask = "^2.3.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
