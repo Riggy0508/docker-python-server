@@ -2,7 +2,7 @@
 name = "simple-python-server"
 version = "0.1.0"
 description = ""
-authors = ["Nicholas Young <nicholas.young@abbott.com>"]
+authors = ["Rigved Patil <rigved.patil@abbott.com>"]
 readme = "README.md"
 packages = [{include = "simple_python_server"}]
 
